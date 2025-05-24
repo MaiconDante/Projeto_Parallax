@@ -22,8 +22,3 @@ Implementar o efeito visual Parallax utilizando apenas imagens e propriedades CS
 
 ## 📄 Descrição do Projeto
 A página principal conta com seções de conteúdo intercaladas com imagens de fundo que utilizam o efeito Parallax, proporcionando uma sensação de profundidade e movimento durante a rolagem. Tudo foi feito com foco na simplicidade e no uso de boas práticas em HTML e CSS.
-
-## 📷 Demonstração
-(Insira aqui um link para a página hospedada ou um gif/imagem da interface)
-
---
